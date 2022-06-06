@@ -1,4 +1,4 @@
-<img src='https://github.com/tosibinaronmuro/number-counter/blob/main/banner.png' alt='tosiron'></img>
+<img src="https://github.com/tosibinaronmuro/number-counter/blob/main/Tosiron's%20Banner.png" alt='tosiron'></img>
 <h1 align="center">Hi 👋, I'm Tosiron</h1>
 <h3 align="center">A passionate frontend developer from Abuja,Nigeria</h3>
 
