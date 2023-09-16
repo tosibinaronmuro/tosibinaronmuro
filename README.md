@@ -1,5 +1,5 @@
 <img src="https://github.com/tosibinaronmuro/number-counter/blob/main/Tosiron's%20Banner.png" alt='tosiron'></img>
-<h1 align="center">Hi 👋, I'm Tosiron</h1>
+<h1 align="center">Hi 👋, I'm Tosiron Jegede</h1>
 <h3 align="center">A passionate software developer </h3>
 
 <p align="left"> <a href="https://twitter.com/tosiron2" target="blank"><img src="https://img.shields.io/twitter/follow/tosiron2?logo=twitter&style=for-the-badge" alt="tosiron2" /></a> </p>
